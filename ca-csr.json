@@ -1,0 +1,22 @@
+{
+    "CN": "Aten Design Group, LLC",
+    "hosts": [
+        "atendesigngroup.com",
+        "www.atendesigngroup.com",
+        "aten.io",
+        "www.aten.io"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "US",
+            "L": "CO",
+            "O": "Aten Design Group",
+            "ST": "Denver"
+        }
+    ]
+}
+
